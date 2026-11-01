@@ -1,0 +1,13 @@
+AIML Practical 1-11 Jupyter Notebooks
+34 independent notebooks organized by practical.
+
+Recommended: Google Colab or standard JupyterLab (not JupyterLite/WASM).
+Open an .ipynb file and click Run All.
+Install missing libraries in a notebook cell:
+%pip install numpy pandas matplotlib seaborn scikit-learn scipy
+
+Practical 5 uses public CSV files fetched on first run if not available locally.
+Practical 6 uses fetch_california_housing and may require first-run internet.
+Practical 1 Chatbot requests interactive input until exit is entered.
+No code outputs are precomputed; run the notebooks to generate live results.
+Notes on how the algorithms work and how to read outputs are in the chat response.
